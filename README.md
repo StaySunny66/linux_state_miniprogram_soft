@@ -19,3 +19,6 @@ wget https://github.com/StaySunny66/linux_state_miniprogram_soft/blob/main/relea
 绑定码为web服务器的接口地址的Base64编码  
 绑定码 = base64（http://你的ip:1323）  
 你也可以使用反向代理到你的域名 进行base64编码后手动添加到微信小程序  
+# 参考的项目
+
+https://github.com/vaxilu/x-ui/
