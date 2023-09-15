@@ -2,7 +2,7 @@
 Linux 性能检测接口
 # 建议的使用方法
 1. 在你的Linux 设备上安装GO 环境 前往安全组开启服务器1323端口
-2. 复制 main.go .. 到你的服务器
+2. 下载 src 文件夹到你的服务器
 3. 执行 go mod tidy 下载依赖包
 4. 执行 go run main.go / go build main.go  运行或者生成你所需要的二进制文件
 # 或者可以这样
