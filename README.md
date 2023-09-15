@@ -8,7 +8,9 @@ Linux 性能检测接口
 # 或者可以这样
 你可以选择 使用realse 的二进制直接运行
 如下
-wget https://github.com/StaySunny66/linux_state_miniprogram_soft/blob/main/releases/main_Linux_X64
+
+wget https://github.com/StaySunny66/linux_state_miniprogram_soft/blob/main/releases/main_Linux_X64  
+
 ./main_Linux_X64
 
 # 后续 。。。
