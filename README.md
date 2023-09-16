@@ -5,11 +5,13 @@ Linux 性能检测接口
 2. 下载 src 文件夹到你的服务器
 3. 执行 go mod tidy 下载依赖包
 4. 执行 go run main.go / go build main.go  运行或者生成你所需要的二进制文件
-# 或者可以这样
+# 或者可以这样(不一定可以用哦~)
 你可以选择 使用realse 的二进制直接运行
 如下
 
-wget https://github.com/StaySunny66/linux_state_miniprogram_soft/blob/main/releases/main_Linux_X64  
+wget https://github.com/StaySunny66/linux_state_miniprogram_soft/blob/main/releases/main_Linux_X64 
+
+sudo chmod A+X main_Linux_X64  
 
 ./main_Linux_X64
 
